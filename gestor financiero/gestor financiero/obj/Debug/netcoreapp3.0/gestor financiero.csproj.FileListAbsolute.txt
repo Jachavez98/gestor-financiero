@@ -1,0 +1,35 @@
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.exe
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.deps.json
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.runtimeconfig.json
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.runtimeconfig.dev.json
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.dll
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.pdb
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.Views.dll
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\bin\Debug\netcoreapp3.0\gestor financiero.Views.pdb
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.csprojAssemblyReference.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\staticwebassets\gestor financiero.StaticWebAssets.Manifest.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\staticwebassets\gestor financiero.StaticWebAssets.xml
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.RazorAssemblyInfo.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.RazorAssemblyInfo.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.AssemblyInfoInputs.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.AssemblyInfo.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.TagHelpers.input.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.TagHelpers.output.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.RazorCoreGenerate.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.RazorTargetAssemblyInfo.cache
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.RazorTargetAssemblyInfo.cs
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.Views.pdb
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.dll
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.pdb
+C:\Users\JOHAN\source\repos\gestor financiero\gestor financiero\obj\Debug\netcoreapp3.0\gestor financiero.csproj.CopyComplete
